@@ -1,4 +1,6 @@
-# 공부법 및 추천도서
+# 추천 도서 및 공부법
+
+## 추천 도서
 
 * :kangaroo: 핸즈온 LLM (video, [repo](https://github.com/rickiepark/handson-llm), [errata](https://tensorflow.blog/handson-llm)), 한빛미디어, 2025
 * :wrench: 혼자 만들면서 공부하는 딥러닝 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQjqS4atZMP47E2w7jr1HsLe)**, [repo](https://github.com/rickiepark/hm-dl), [errata](https://tensorflow.blog/hm-dl/)), 한빛미디어, 2025
@@ -10,7 +12,7 @@
 * :pencil2: 스티븐 울프럼의 챗GPT 강의 ([errata](https://tensorflow.blog/wolfram-chatgpt/)), 한빛미디어, 2023
 * :lizard: 핸즈온 머신러닝 3판 ([repo](https://github.com/rickiepark/handson-ml3), [errata](https://tensorflow.blog/handson-ml3/)), 한빛미디어, 2023
 * :framed_picture: 만들면서 배우는 생성 AI 2판 ([repo](https://github.com/rickiepark/Generative_Deep_Learning_2nd_Edition/), [errata](https://tensorflow.blog/gen-dl-2/)), 한빛미디어, 2023
-* :alarm_clock: 코딩 뇌를 깨우는 파이썬 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQgfGrerljqqmBhqfhrOniI-)**, [repo](https://github.com/rickiepark/python4daml), [errta](https://tensorflow.blog/python4daml/)), 한빛미디어, 2023
+* :alarm_clock: 코딩 뇌를 깨우는 파이썬 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQgfGrerljqqmBhqfhrOniI-)**, [repo](https://github.com/rickiepark/python4daml), [errata](https://tensorflow.blog/python4daml/)), 한빛미디어, 2023
 * :moyai: 챗GPT로 대화하는 기술 ([errata](https://tensorflow.blog/gen-ai)), 한빛미디어, 2023
 * :woman_student: 혼자 공부하는 데이터 분석 with 파이썬 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQjk0b_hLUxLw7W4pc9feRTF)**, [repo](https://bit.ly/hg-da-git), [errata](https://bit.ly/hg-da-home)), 한빛미디어, 2023
 * :hugs: 트랜스포머를 활용한 자연어 처리 ([repo](https://bit.ly/transformer-git), [errata](https://bit.ly/transformer-home)), 한빛미디어, 2022
@@ -36,6 +38,7 @@
 * :dragon: 파이썬 라이브러리를 활용한 머신러닝 ([repo](https://github.com/rickiepark/introduction_to_ml_with_python/tree/1st_edition), [errata](https://tensorflow.blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)), 한빛미디어, 2017
 * :brain: 텐서플로 첫걸음 ([repo](https://github.com/rickiepark/first-steps-with-tensorflow), [errata](https://tensorflow.blog/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C-%EC%B2%AB%EA%B1%B8%EC%9D%8C/)), 한빛미디어, 2016
 
+## 공부 로드맵
 
 <a href="https://tensorflow.blog/book-roadmap/" target="_blank"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/tensorflow-blog-1.jpg"></a>
 
@@ -76,3 +79,7 @@
 <a href="https://github.com/rickiepark/handson-ml"><img src="https://tensorflowkorea.files.wordpress.com/2018/04/b9267655530_l.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/introduction_to_ml_with_python/tree/1st_edition"><img src="https://tensorflowkorea.files.wordpress.com/2017/06/b6119391002_l.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/first-steps-with-tensorflow"><img src="https://tensorflowkorea.files.wordpress.com/2016/08/l.jpg" height="150"></a>
+
+## 출처
+
+> 출처: [Rickie Park GitHub](https://github.com/rickiepark/rickiepark)
