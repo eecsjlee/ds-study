@@ -42,8 +42,8 @@
 
 <a href="https://tensorflow.blog/book-roadmap/" target="_blank"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/tensorflow-blog-1.jpg"></a>
 
+## 책 이미지
 
-<a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
 <a href="https://github.com/rickiepark/handson-llm"><img src="https://tensorflow.blog/wp-content/uploads/2025/05/ed95b8eca688ec98a8_llm.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/hm-dl"><img src="https://tensorflow.blog/wp-content/uploads/2025/04/5800017223612001.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/MLQandAI"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/f_l7od6v75w2r4un65.jpg" height="150"></a>
@@ -82,4 +82,4 @@
 
 ## 출처
 
-> 출처: [Rickie Park GitHub](https://github.com/rickiepark/rickiepark)
+> [Rickie Park GitHub](https://github.com/rickiepark/rickiepark)
